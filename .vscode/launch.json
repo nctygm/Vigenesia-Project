@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "vigenesiaproject",
+            "cwd": "vigenesiaproject",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "vigenesiaproject (profile mode)",
+            "cwd": "vigenesiaproject",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "vigenesiaproject (release mode)",
+            "cwd": "vigenesiaproject",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
